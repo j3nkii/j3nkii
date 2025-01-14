@@ -1,4 +1,6 @@
-# :sparkles::doughnut::sparkles::doughnut::sparkles::doughnut::sparkles:     :japanese_ogre:J3NKii:japanese_ogre:
+# :sparkles::doughnut::sparkles::doughnut::sparkles::doughnut::sparkles: J3NKii::
+
+
 
 <!--
 **j3nkii/j3nkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
